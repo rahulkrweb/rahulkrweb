@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi 👋 I'm Rahul Kumar
 
-<!--
-**rahulkrweb/rahulkrweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Beginner Full Stack Web Developer (MERN Stack)  
+🤖 Learning AI & Emerging Technologies  
 
-Here are some ideas to get you started:
+ 
+🚀 About Me
+- 🌱 Currently learning **MongoDB, Express, React, Node.js**
+- 🤖 Exploring **Artificial Intelligence & AI tools**
+- 💡 Interested in **Web Development, Software Engineering & Tech Innovations**
+- 📚 Always eager to learn new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ Tech Skills (Learning & Using)
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
+- **Basics:** C, Java (Academic)
+
+
+📌 Goals
+- Build real-world MERN stack projects  
+- Improve problem-solving & coding skills  
+- Learn AI fundamentals and applications  
+
+📫 Connect With Me
+- GitHub: https://github.com/rahulkrweb 
+- Email: rahulcodes1@gmail.com
+
+⭐ *Thanks for visiting my profile!*
